@@ -11,4 +11,4 @@ Happy Mousing Around!!
 Must be run from a cmd or terminal.  
 
 **To Do**
-Replace fixed resolution variables
+~~Replace fixed resolution variables~~
