@@ -12,3 +12,4 @@ Must be run from a cmd or terminal.
 
 **To Do**
 ~~Replace fixed resolution variables~~
+Add actually dist jar
